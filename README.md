@@ -1,1 +1,1 @@
-# webpack-react-boilerplate
+# Simple Meditation Progressive Web App (PWA)
